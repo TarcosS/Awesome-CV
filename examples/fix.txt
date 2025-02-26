@@ -1,0 +1,62 @@
+1. Resumeye tarih yazilmamali (sol altta yaziyor)
+
+2. Sayfa numarasi yazilmamali (sag altta yaziyor)
+
+3. Dogum tarihi yazilmamali
+
+4. Adresin tamamini yazmaktansa sadece Toronto, Canada yeterli
+
+5. Portfoy sitesi "ustech.studio" olarak degil de "Portfolio" yazip hyperlink kullanarak konulabilir. ustech.studio sanki kendi siten degil de baska bir sirketin sitesi gibi anlasilabilir
+
+6. Kuzey amerika'da sirketlerin bir resume'ye en fazla 10-15 saniye harcadigi soyleniyor. Dolayisiyla genellikle "Summary" kisminin hic yazilmamasi tavsiye edilir. Bence summary kismi tamamen kaldirilabilir. Normalde resumeyi okuyan kisi aradiklarini resumendeki is tecrubesi ve projelerinden bulabilmeli
+
+7. Education kismi eklenip 2020-2024 balikesir'de okudun bolum yazilabilir. 4 sene universite okumus olmak gunun sonunda yine kiymet verilen bir sey. "Dropout" gibi ek bir detay vermene gerek yok.
+
+8. Sirket isimleri buyuk ve kalin punto ile uste, pozisyonlar ise kucuk ve ince punto ile alta yazilmis. Bence bu ikisinin yeri degistirilebilir. Pozisyonlar buyuk, kalin punto ile uste yazilip sirket isimleri kucuk, ince punto ile alta yazilabilir.
+
+// 
+"9. Mulakat sirasinda kendini anlatirken kullanacagin cumleler icin genellikle STAR (situation, task, action, result) denen bir format tavsiye edilir. Resumede ise bunlarin AR kismi yazilir genelde. Boylelikle resumeni okuyan kisinin senin sirkete nasil fayda sagladigini anlamasi cok kolaylasir:
+- Situation - Durum neydi (ornek: projede cok fazla regression bug ortaya cikiyordu)
+- Task - ne yapman gerekiyordu: (projede uzun vadeli olarak bug'lari azaltmak)
+- Action - ne yaptin: (unit ve regression test sayisini artirdin)
+- Result - elde ettigin sonuc: (test coverage %30'dan %89'a yukseldi ve buglar %95 oraninda azaldi)"
+
+Ornek cumle: "Reduced regression bug rate by 90% by increasing unit test coverage from 30% to 89%"
+
+Burada ozellikle result kisminda "quantifiable" yani olculebilir bir fayda belirtilmesi cok kiymetli. Her cumle bu sekilde olmayabilir ama mumkun olan her yerde saglanan faydayi sayilarla belirtmekte fayda var.
+
+10. Work experience kisminda recruiter icin onemli olan seylerin kalin punto ile yazilmasi faydali oluyor. Mesela kullandigin dillerin, toollarin, ve yazdigin metric'lerin kalin punto ile yazilmasi faydali olur.
+
+Moosoft
+- Büyük ölçekli bir yazılım için sorunsuz ve senkronize iş akış sürecinde Design, Frontend, Backend ve DevOps ekiplerinin yönetimi
+- Sistemin ve tüm teknolojilerin verimli ve senkronize çalışması için tüm teknolojilerde JavaScript'e geçildi.
+- Modüler ve ölçeklenebilir bir yapı oluşması için Docker, Kubernetes teknolojilere geçiş yapıldı.
+- Yapılan güncellemeler doğrultusunda 3 ay içerisinde kullanıcı sayisi 7 katına çıkarken uygulama içi işlem kapasitesi 26M₺ ye ulaştı
+
+Codelisa
+- Avrupa için ReactJS, NextJS ve Typescript kullanılarak gelişmiş SEO yapısına sahip olan ve yazılım içi veri ulaşımına değer veren uygulamalar geliştirildi.
+- Used React Native and Redux to integrate socket communications, complex map paths and data-driven state management.
+- Uygulama içi veri akışının optimize edilmesi ve tip dolaşımının açığa çıkartılması ile %23 performans artışı, %30 geliştirme süreci hız artışı sağlandı ve sürdürülebilir uygulamalar geliştirildi.
+
+Kuasar Video
+- İçerik Üreticileri ve firmaların sosyal medya videolarını skorlayan yapay zeka uygulaması için React, NextJS ve Typescript kullanılarak yüksek işlem ve yoğunluğa dayanıklı projeler geliştirildi.
+- Uygulama analizi esnasında arka planda yapılan video işleme verilerini aktif olarak kullanıcıya ulaştırmak için WebSocket'ler kullanıldı.
+- Jest ve Mocha kullanılarak React projeler üzerinde tansiyon ve E2E testleri yapılarak performans ve işleyiş sorunları açığa çıkarıldı.
+- Şişirilmiş kodların temizlenmesi, veri dolaşım yapsının optimze edilmesi ve UI Library entegrasyonlarının düzeltilmesi sonrasında performans skor ortalaması %20 den %93'e çıkmıştır.
+
+Aperion Gaming
+- ReactJS ve komplex WebSocket entegrasyonları ile çalışan web tabanlı interaktif UFO Galaxy ve Rock, Paper, Scissors oyunları geliştirildi.
+- JEST ile Unit, E2E ve Regression testleri yapılarak buglar tespit edildi. Yoğun veri alışverişinden kaynaklı hatalar Backend ve DevOps ekiplerine iletilerek işleyiş kontrolü sağlandı.
+- TypeScript kullanılarak veri dolaşımı düzenlemesi yapılarak kod boyutu küçültülmüştür. İçeride Lazy Load ve useMemo yapıları entegre edilerek sistemin UI tarafında %60 performans artışı ve Docker Container boyutunda 400MB düşüş sağlanmıştır. 
+- Kod bölümleme, veri akışı optimizasyonu, bug fixing ve ölçeklenebilir mikrofrontend yapılarının kurulumu ile sistemin kaldırabileceği anlık oyuncu sayısı 3000'den 10000+ yükselerek yaklaşık %300 artış göstermiştir.
+
+GEON
+- QWC2 açık kaynaklı, ReactJS and OpenLayers ile geliştirilmiş responsive Map Client üzerine GIS (Geographic Information Systems) entegrasyonu ile gerekli veri dolaşımı üzerinde çalışıldı.
+- Code Splitting konusuna özen göstererek işleyiş için gerekli yeni komponentler geliştirerek kullanıcı arayüzü geliştirmeleri sağlandı.
+- GIS'ın kullanıyor olduğu komplex milyonu aşkın veriyi OpenLayers sistemi üzerine gözüken Latitude ve Longitude kutusu içerisinde doğru ve optimize gözükebilecek şekilde entegrasyonlarını yaptım.
+- React ile geliştirilmiş olan sistemin üzerine, React'ın useRef, useMemo, useCallback ve lazy gibi yapılarını da ekleyerek yüksek veri rendering yapan sistemde görüntüleme optimizasyonları yaparak %25 performans artışı sağlanndı
+
+
+34. Summary kismini cikartinca resumede baya yer acilacak. Acilan yer is tecrubelerine birer ikiser madde ekleyerek ve/veya kendi github projelerini ekleyerek doldurulabilir. Kendi projelerinden ozellikle hosuna giden varsa yazmaktan cekinme, benim de kendi resumemde 3 tane proje yaziyor her biri 2 maddeli
+
+35. Certificates kismindaki kurslar hala internette varsa onlara hyperlink eklenebilir
